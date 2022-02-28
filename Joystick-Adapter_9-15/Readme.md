@@ -10,3 +10,5 @@ Now you can play old games with an old Kemston joystick (from ZX-Spectrum / C64)
 ![USB-Gameport_Adapter_02](./USB-Gameport_Adapter_02.jpg)
 
 ![USB-Gameport_Adapter_03](./USB-Gameport_Adapter_03.jpg)
+
+![USB-Gameport_Adapter_04](./Joystick-Adapter_9-15.pdf)
